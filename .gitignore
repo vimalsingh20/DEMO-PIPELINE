@@ -1,1 +1,3 @@
 conda-env
+build
+census_sensor.egg-info
